@@ -4,13 +4,13 @@
   line-height: 22px;
   opacity: 0.8;
   color: #333;
-  .copyright {
+  .beian {
     float: right;
   }
   @media screen and (max-width: 800px){
     margin-top: 20px;
     text-align: center;
-    .copyright {
+    .beian {
       display: block;
       float: none;
     }

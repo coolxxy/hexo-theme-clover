@@ -2,7 +2,7 @@
 nav:
   title: "潇潇雨的博客"
 
-favicon: ""
+favicon: "/pictures/icon.png"
 
 # Custom background
 background:
@@ -19,7 +19,7 @@ social:
 
 # Custom footer
 # mail: d.guangying@foxmail.com
-copyright: Powered by Hexo
+beian: 京ICP备18061431号-1
 
 # Custom menu. You can specific the path or the card style (only useful for category page).
 # Two kinds of card style: 'project-card', 'article-card',

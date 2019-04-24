@@ -32,9 +32,9 @@ $brand-color: #f0534e;
     }
 
     pre, .highlight {
+      font-family: Consolas;
       overflow: auto;;
       padding: 0;
-      margin-bottom: 15px;
       color: #333;
       background: #f8f8f8;
       .gutter {
