@@ -15,7 +15,7 @@ social:
 #  Behance: https://www.behance.net/clovertuan
 #  Lofter: http://clovertuan.lofter.com/
 #  Instagram: https://www.instagram.com/clovertuan/
-  GitHub: https://github.com/coolxxy
+#  GitHub: https://github.com/coolxxy
 
 # Custom footer
 # mail: d.guangying@foxmail.com
@@ -32,6 +32,7 @@ menu:
   #   path: /tags/Stuffs
   #   card: article-card
   Home: /
+  Categories: /categories
   Archive: /archives
   About: /about
 
